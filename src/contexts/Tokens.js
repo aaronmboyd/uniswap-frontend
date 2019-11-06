@@ -119,6 +119,12 @@ const INITIAL_TOKENS_CONTEXT = {
       [DECIMALS]: 18,
       [EXCHANGE_ADDRESS]: '0xb99A23b1a4585fc56d0EC3B76528C27cAd427473'
     },
+    '0x009e864923b49263c7f10d19b7f8ab7a9a5aad33': {
+      [NAME]: 'Knoxstertoken',
+      [SYMBOL]: 'FKX',
+      [DECIMALS]: 18,
+      [EXCHANGE_ADDRESS]: '0x91aa9d58d0672E3E4B0dAd9AbFE41c8849baB571'
+    },
     '0x4946Fcea7C692606e8908002e55A582af44AC121': {
       [NAME]: 'FOAM Token',
       [SYMBOL]: 'FOAM',
